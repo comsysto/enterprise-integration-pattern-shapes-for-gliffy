@@ -1,2 +1,5 @@
 # enterprise-integration-pattern-shapes-for-gliffy
-redirect to new repository owner
+
+:bangbang: This repos exists so that the GitHub Pages redirects to new repository owner.
+
+
